@@ -1,4 +1,4 @@
-# Xbox Unreal Configs
+# Xbox Game Configs
 Modified configuration files for various Xbox games to maximize performance. Feel free to make pull requests if you have better changes to optimize performance!
 
 # Current Modified Games:
